@@ -7,6 +7,8 @@ We start by loading in the Data from the https://earthquake.usgs.gov/earthquakes
 
 ### Visualizing the data:
 
+![Screenshot 2021-12-15 183841](https://user-images.githubusercontent.com/81705144/146286707-5f7ebb0a-8284-45a9-bea1-bcd441ae6f3c.png)
+
 • We create a map using Leaflet that will plot all the Earthquakes based on the latitude and longitude of the JSON data.
 
 • Our markers will vary depending on the size and depth of the Earthquake, and will also vary in color. 
