@@ -15,6 +15,6 @@ We start by loading in the Data from the https://earthquake.usgs.gov/earthquakes
 
 • When a user clicks on one of the Earthquakes it will also provide data for that specific event, including Time and specific Location.
 
-http://localhost:52330/Leaflet-Step-1/index.html
+[GithubPages](http://localhost:52330/Leaflet-Step-1/index.html)
 
 >- Matthew Villarreal
